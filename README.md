@@ -109,10 +109,4 @@
     password :adminadmin
     ```
     
-14. Login User dengan akun 
-
-    ```bash
-    Email : user@gmail.com
-    password :useruser
-    ```
-    atau buat akun via register
+14. Login User buat akun via register
