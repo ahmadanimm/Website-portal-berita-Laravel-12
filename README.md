@@ -34,13 +34,13 @@
     git clone https://github.com/ahmadanimm/Website-Portal-Berita-Laravel-12.git
     ```
 
-2. Masuk ke folder repository kalian
+2. Masuk ke direktori proyek
     
     ```bash
     cd Portal-Berita
     ```
 
-3. Install dependency
+3. Install dependency composer
     
     ```bash
     composer install
@@ -80,24 +80,39 @@
     ```bash
     php artisan db:seed
     ```
+    
 9. Lakukan Storage:Link untuk menyimpan gambar
 
     ```bash
     php artisan storage:link
     ```
+    
+10. Install depedency NPM
 
+    ```bash
+    npm install
+    npm run dev
+    ```
 
-10. Jalankan server
+11. Jalankan server
     
     ```bash
     php artisan serve
     ```
 
-11. Buka browser dan akses `http://localhost:8000`
+12. Buka browser dan akses `http://localhost:8000`
 
-11. Login Admin dengan akun
+13. Login Admin dengan akun
 
     ```bash
     Email : admin@gmail.com
     password :adminadmin
     ```
+    
+14. Login user dengan akun 
+
+    ```bash
+    Email : user@gmail.com
+    password :useruser
+    ```
+    atau buat akun via register
