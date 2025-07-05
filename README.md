@@ -4,7 +4,7 @@
 
 > Website portal berita adalah platform digital yang dirancang untuk memberikan informasi terkini dari berbagai bidang seperti hiburan, otomotif, kesehatan, politik, bisnis, olahraga, makanan. Aplikasi ini dibuat menggunakan Laravel v12.16.0 dan minimal PHP v8.4.6 jadi apabila pada saat proses instalasi atau penggunaan terdapat error atau bug kemungkinan karena versi dari PHP yang tidak support.
 
-### **📝 Fitur Website **
+### **📝 Fitur Website**
 
 ---
 ### User
