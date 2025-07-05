@@ -106,7 +106,13 @@
 
     ```bash
     Email : admin@gmail.com
-    password :adminadmin
+    password :admin123
     ```
     
-14. Login User buat akun via register
+14. Login User dengan akun
+
+    ```bash
+    Email : user@gmail.com
+    password :user123
+    ```
+    atau buat akun via register
