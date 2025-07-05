@@ -64,7 +64,7 @@
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=portal-berita
+    DB_DATABASE=portal_berita
     DB_USERNAME=root
     DB_PASSWORD=
     ```
@@ -109,7 +109,7 @@
     password :adminadmin
     ```
     
-14. Login user dengan akun 
+14. Login User dengan akun 
 
     ```bash
     Email : user@gmail.com
